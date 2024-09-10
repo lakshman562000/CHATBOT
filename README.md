@@ -1,4 +1,6 @@
 # CHATBOT
+A conversational AI chatbot Build Using Python, Jupyter Notebook, Visual Studio Code.
+
 # Project Overview
 
 This repository presents a cutting-edge conversational AI project, harnessing the power of OpenAI's language model to create an engaging and interactive chatbot. The chatbot is designed to converse with users in real-time, providing natural language-based responses that simulate human-like conversations.
