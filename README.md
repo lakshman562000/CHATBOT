@@ -7,14 +7,15 @@ This repository presents a cutting-edge conversational AI project, harnessing th
 
 The repository consists of four primary components:
 
-1. Simple Chatbot: A Python script demonstrating a basic chatbot utilizing OpenAI's GPT-3.5-turbo model. It engages users via text input and generates AI-driven responses.
-2. Interactive Chatbot: A Python code creating a dynamic chatbot using OpenAI's GPT-3.5-turbo model. It takes user input, stores chat messages, and prompts users to specify the chatbot type.
-3. Chatbot Web Interface: A Python script implementing a chatbot using OpenAI's GPT-3.5-turbo model, hosted on a web interface. It requires OpenAI and Gradio libraries, and users can interact with the chatbot by inputting text messages.
-4. AI Voice Assistant: A virtual assistant powered by artificial intelligence, offering voice and text interfaces for various functions, including opening applications, providing real-time information, and sending messages.
+1. [Simple Chatbot](https://github.com/lakshman562000/CHATBOT/blob/main/Simple%20Chatbot.py) A Python script demonstrating a basic chatbot utilizing OpenAI's GPT-3.5-turbo model. It engages users via text input and generates AI-driven responses.
+2. [Interactive Chatbot](https://github.com/lakshman562000/CHATBOT/blob/main/Interactive%20chatbot%20using%20OpenAI%20API.py) A Python code creating a dynamic chatbot using OpenAI's GPT-3.5-turbo model. It takes user input, stores chat messages, and prompts users to specify the chatbot type.
+3. [Chatbot Web Interface](https://github.com/lakshman562000/CHATBOT/blob/main/Chatbot%20as%20Interface%20in%20Web.py) A Python script implementing a chatbot using OpenAI's GPT-3.5-turbo model, hosted on a web interface. It requires OpenAI and Gradio libraries, and users can interact with the chatbot by inputting text messages.
+4. [AI Voice Assistant](https://github.com/lakshman562000/CHATBOT/blob/main/AI%20Assistant.py) A virtual assistant powered by artificial intelligence, offering voice and text interfaces for various functions, including opening applications, providing real-time information, and sending messages.
 
 # Chatbot Web Interface
 
-![alt text](Chatbot.png)
+![Chatbot](https://github.com/user-attachments/assets/d58035a5-4e9f-442a-aa3f-80c5b664dd86)
+
 
 # Features
 
